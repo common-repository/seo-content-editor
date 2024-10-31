@@ -1,0 +1,134 @@
+
+
+
+
+
+.badge_entry_red:hover {
+    box-shadow: rgb(252, 115, 115) 0px 0px 3px 1px;
+}
+
+.badge_entry_red {
+    position: relative;
+    color: rgb(87, 0, 0);
+    display: inline-block;
+    margin-left: 2px;
+    margin-right: 2px;
+    cursor: pointer;
+    background: rgb(255, 220, 216);
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+
+
+
+
+.badge_entry_orange:hover {
+    box-shadow: rgb(252, 197, 115) 0px 0px 3px 1px;
+}
+
+.badge_entry_orange {
+    position: relative;
+    color: rgb(87, 46, 0);
+    display: inline-block;
+    margin-left: 2px;
+    margin-right: 2px;
+    cursor: pointer;
+    background: rgb(255, 238, 216);
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+
+
+.badge_entry_green:hover {
+    box-shadow: rgb(147, 252, 115) 0px 0px 3px 1px;
+}
+
+.badge_entry_green {
+    position: relative;
+    color: rgb(30, 63, 4);
+    display: inline-block;
+    margin-left: 2px;
+    margin-right: 2px;
+    cursor: pointer;
+    background: rgb(223, 255, 197);
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+
+
+
+
+
+
+.badge_keyword {
+    display: inline-block;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+}
+
+#seoce_wintext div {
+  border: 1px solid #aaaaaa;
+}
+
+
+
+
+.badge_numbers_red {
+    border-left: 1px solid rgb(255, 187, 183);
+    background: rgb(255, 228, 224);
+}
+
+
+.badge_numbers_orange {
+    border-left: 1px solid rgb(255, 226, 183);
+    background: rgb(255, 245, 224);
+}
+
+
+
+.badge_numbers_green {
+    border-left: 1px solid rgb(189, 255, 183);
+    background: rgb(228, 255, 224);
+}
+
+
+
+
+.badge_numbers_first {
+    display: inline-block;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+
+
+
+
+.seoce-flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+  
+  .seoce-flex-container > div {
+    width: 110px;
+    margin: 2px;
+    text-align: center;
+    border: 1px #cccccc dotted;
+  }
+
+
+  .seoce-flex-container > div p{
+    text-align: center;
+    font-size: 16px;
+    margin-top: 0px;
+  }

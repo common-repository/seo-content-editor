@@ -1,0 +1,24 @@
+
+ins, mark {
+    background: #ff0000 !important;
+    color: white !important;
+}
+
+
+.seoce_mark_red{
+    background: #ff7575;
+    color:#222222;
+}
+
+
+.seoce_mark_orange{
+    background: #ffc56e;
+    color:#222222;
+}
+
+
+.seoce_mark_green{
+    background: #8afd6e;
+    color:#222222;
+}
+
